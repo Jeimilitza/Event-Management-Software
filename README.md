@@ -1,2 +1,2 @@
 # Event-Management-Software
-This project aims to create a software app for inputting, storing, and displaying dated events, offering reminders for upcoming appointments, and providing weather forecasts for specified cities, ensuring data persistence between program runs.
+The aim of this project is to develop a software application that allows users to input and store dated events and appointments. These entries are saved and retained between program runs for future use and can be displayed in chronological order. The program also provides reminders for approaching appointments and offers weather predictions for specified cities upon user request.
